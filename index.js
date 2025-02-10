@@ -16,3 +16,4 @@ console.log(isPowerOfTwo(1));
 console.log(isPowerOfTwo(2));
 console.log(isPowerOfTwo(5));
 console.log(isPowerOfTwo(100));
+console.log(isPowerOfTwo(200));
